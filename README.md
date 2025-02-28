@@ -1,5 +1,5 @@
 # osTicketing-project
-# osticket-prereqs
+
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -12,7 +12,10 @@ I setup an Azure Virtual Machine (VM) setup for labuser1. The VM is currently ru
 
 <h2>Video Demonstration</h2>
 
-This is a video demonstration on how the osTicket was installed and exaples of ticket creation and resolution
+This is a video demonstration on how the osTicket was installed and examples of ticket creation and resolution
+
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+
 
 
 
@@ -37,7 +40,7 @@ This is a video demonstration on how the osTicket was installed and exaples of t
 <h2>Installation Steps</h2>
 
 
-OS AND WEBSERVER INSTALLATION
+Operating systems and web server installation
 
 <img width="1440" alt="Virtual machine setup in Azure" src="https://github.com/user-attachments/assets/481ef1fe-a7d7-435f-8776-4119dba41840" />
 
