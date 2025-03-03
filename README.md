@@ -14,7 +14,8 @@ I setup an Azure Virtual Machine (VM) setup for labuser1. The VM is currently ru
 
 This is a video demonstration on how the osTicket was installed and examples of ticket creation and resolution
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/Sxq_7v2OIXw)
+- 
 
 <h2>Environments and Technologies Used</h2>
 
